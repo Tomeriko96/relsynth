@@ -1,3 +1,3 @@
-from relsynth.io.fwf_reader import read_fwf_asc
+from relsynth.io.splitter import split_flat
 
-__all__ = ["read_fwf_asc"]
+__all__ = ["split_flat"]
